@@ -1,4 +1,4 @@
-# Oredev 2014 Angular Workshop
+# Angular Workshop
 ## Notes
 
 ### 80% of my Angular use is restricted to:
